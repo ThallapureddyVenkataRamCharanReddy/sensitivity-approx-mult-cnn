@@ -1,0 +1,6 @@
+tensorflow>=2.15.0
+numpy>=1.23.5
+scipy>=1.10.0
+matplotlib>=3.7.0
+deap>=1.4.1
+python-pptx>=1.0.0
