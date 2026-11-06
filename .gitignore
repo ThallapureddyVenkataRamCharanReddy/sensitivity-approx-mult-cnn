@@ -49,6 +49,8 @@ vivado_output/
 ehthumbs.db
 Thumbs.db
 Desktop.ini
+~$*.pptx
+~$*.docx
 
 # IDE files
 .vscode/
